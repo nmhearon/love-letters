@@ -1,0 +1,30 @@
+*,
+    *:before,
+    *:after {
+      margin: 0;
+      padding: 0;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+.container{
+	position: center;
+	max-width: 960px;
+	border-width: 2px;
+	border-color: black;
+	border-spacing: 3px;
+	background-color: rgba(255,0,0,0.25);
+}
+.wordemphasis{
+	color: red;
+
+}
+h1{
+	position: center;
+	font-size: 1.5em;
+}
+#centerpage{
+	position: center;
+	margin: auto 0;
+	max-width: 960px;
+}
