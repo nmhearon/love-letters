@@ -25,6 +25,7 @@ html{
 	border-color: black;
 	border-spacing: 3px;
 	border-style: solid;
+	margin-top: 30px;
 }
 .wordemphasis{
 	color: red;
@@ -40,6 +41,14 @@ p{
 	font-size: 1.5em;
 	line-height: 1.5em;
 	font-family: 'Poppins', sans-serif;
+	padding: 5px;
 }
-
+ul{
+	list-style: square;
+	list-style-position: inside;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	font-family: 'Poppins' , sans-serif;
+	padding: 5px;
+}
 /*Photo by Digital Buggu from Pexels https://www.pexels.com/photo/abstract-art-artistic-background-519403/*/
