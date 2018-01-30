@@ -10,12 +10,13 @@ The point of this assignment was to learn the basics behind using bash, git and 
 * CSS
 
 ## Resources Pertaining to The Technologies Named Above
-[Bash Resources](http://cs.lmu.edu/~ray/notes/bash/)
-[Git Resources](https://git-scm.com/)
-[GitHub Resources](https://guides.github.com/)
-[Markdown Language Resources](https://guides.github.com/features/mastering-markdown/)
-[HTML Resources](https://www.w3schools.com/html/default.asp)
-[CSS Resources](https://www.w3schools.com/css/default.asp)
+* [Bash Resources](http://cs.lmu.edu/~ray/notes/bash/)
+* [Git Resources](https://git-scm.com/)
+* [GitHub Resources](https://guides.github.com/)
+* [Markdown Language Resources](https://guides.github.com/features/mastering-markdown/)
+* [HTML Resources](https://www.w3schools.com/html/default.asp)
+* [CSS Resources](https://www.w3schools.com/css/default.asp)
+
 ## Credits
 
 Item | Credit
