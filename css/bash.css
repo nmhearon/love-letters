@@ -51,6 +51,25 @@ ul{
 	font-family: 'Poppins' , sans-serif;
 	padding: 5px;
 }
+nav>ul>li{
+	display: inline-flex;
+	flex-flow: row;
+	margin: 0 auto;
+	justify-content: space-around;
+	padding: 10px;
+	margin: 10px;
+	list-style-type: none;
+	align-content: center;
+	text-decoration: none;	
+	color: white;
+}
+a{
+	color: black;
+	list-style: none;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 footer{
 	font-size: 1em;
 	display: flex;
@@ -59,4 +78,3 @@ footer{
 	align-content: center;
 	margin-bottom: 15px;
 }
-/*Photo by Digital Buggu from Pexels https://www.pexels.com/photo/abstract-art-artistic-background-519403/*/

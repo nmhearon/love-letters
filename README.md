@@ -23,3 +23,4 @@ Item | Credit
 ---- | ------
 Background Image for Bash HTML Page | Photo by Digital Buggu from Pexels https://www.pexels.com/photo/abstract-art-artistic-background-519403
 Background Image for Git HTML Page | Photo by Bess Hamiti from Pexels https://www.pexels.com/photo/red-and-blue-hot-air-balloon-floating-on-air-on-body-of-water-during-night-time-36487/
+Background Image for GitHub HTML Page | StokPic http://stokpic.com/
