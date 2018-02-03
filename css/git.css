@@ -7,7 +7,11 @@
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
     }
-
+html{
+	background: url(../img/gitbackground.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 #centerpage{
 	margin: 50px auto;
 	max-width: 960px;
@@ -30,38 +34,43 @@
 	margin: 10px;
 }
 .container{
-	border-width: 2px;
+	/*border-width: 2px;
 	border-color: black;
 	border-spacing: 3px;
-	border-style: solid;
+	border-style: solid;*/
 	margin-top: 30px;
 	margin: 10px;
-	background-color: rgba(0,0,0,0.5);
+	/*background-color: rgba(255,0,0,0.3);
+	box-shadow: 10px 10px 5px grey;
+	border-radius: 10px;*/
 }
 #commands{
 	font-size: 0.8em;
 }
 .wordemphasis{
-	color: yellow;
+	color: blue;
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.3em;
 
+}
+#undernav{
+	line-height: 10px;
 }
 h1{
 	position: center;
 	font-size: 3em;
 	font-family: 'Rammetto One', cursive;
 	color: black;
-	margin-bottom: 20px;
+/*	margin-bottom: 20px;*/
 }
 h2{
 	font-family: 'Rammetto One', cursive;
 	color: black;
 }
 p{
-	font-size: 1.5em;
+	font-size: 1.75em;
 	line-height: 1.5em;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Sue Ellen Francisco', cursive;	
 	padding: 5px;
 	color: black;
 }
@@ -74,13 +83,16 @@ ul{
 	padding: 5px;
 	color: black;
 }
+nav{
+/*	padding-top: 8px;*/
+	border-color: black;
+	border-width: 3px;
+}
 nav>ul>li{
-	display: inline-flex;
-	flex-flow: row;
+	display: inline;
 	margin: 0 auto;
-	justify-content: space-around;
 	padding: 10px;
-	margin: 10px;
+/*	margin: 10px;*/
 	list-style-type: none;
 	align-content: center;
 	text-decoration: none;	
@@ -93,6 +105,13 @@ a{
 }
 a:hover{
 	text-decoration: underline;
+}
+summary{
+		font-family: 'Rammetto One', cursive;
+		font-size: 2em;
+}
+hr{
+	color: black;
 }
 footer{
 	font-size: 1em;
