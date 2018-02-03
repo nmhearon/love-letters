@@ -8,12 +8,6 @@
       box-sizing: border-box;
     }
 
-html{
-	background-image: url("../img/gitbackground.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-}
 #centerpage{
 	margin: 50px auto;
 	max-width: 960px;
@@ -37,20 +31,15 @@ html{
 }
 .container{
 	border-width: 2px;
-	border-color: white;
+	border-color: black;
 	border-spacing: 3px;
 	border-style: solid;
 	margin-top: 30px;
-	max-width: 50%;
 	margin: 10px;
 	background-color: rgba(0,0,0,0.5);
 }
 #commands{
 	font-size: 0.8em;
-}
-.containercontainer{
-	display: flex;
-	flex-flow: row;
 }
 .wordemphasis{
 	color: yellow;
@@ -62,19 +51,19 @@ h1{
 	position: center;
 	font-size: 3em;
 	font-family: 'Rammetto One', cursive;
-	color: white;
+	color: black;
 	margin-bottom: 20px;
 }
 h2{
 	font-family: 'Rammetto One', cursive;
-	color: white;
+	color: black;
 }
 p{
 	font-size: 1.5em;
 	line-height: 1.5em;
 	font-family: 'Roboto', sans-serif;
 	padding: 5px;
-	color: white;
+	color: black;
 }
 ul{
 	list-style: square;
@@ -83,7 +72,7 @@ ul{
 	line-height: 1.5em;
 	font-family: 'Roboto', sans-serif;
 	padding: 5px;
-	color: white;
+	color: black;
 }
 nav>ul>li{
 	display: inline-flex;
@@ -95,10 +84,10 @@ nav>ul>li{
 	list-style-type: none;
 	align-content: center;
 	text-decoration: none;	
-	color: white;
+	color: black;
 }
 a{
-	color: white;
+	color: black;
 	list-style: none;
 	text-decoration: none;
 }
@@ -112,5 +101,5 @@ footer{
 	justify-content: center;
 	align-content: center;
 	margin-bottom: 15px;
-	color: white;
+	color: black;
 }
